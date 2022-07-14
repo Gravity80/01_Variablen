@@ -46,7 +46,7 @@
 
 /***** 04 Beispiel *******/
 
-// Deklaration
+// Deklaration 
 let ageJohn, ageMark;
 let birthYearJohn, birthYearMark; 
 
